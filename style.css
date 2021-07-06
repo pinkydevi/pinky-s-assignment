@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange-color
+{
+    color: orangered;
+}
+.red-color
+{
+    color:slateblue;
+}
+.flexiable-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.hello
+{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.hello img
+{
+    width: 100%;
+    padding-left: 5%;
+}
+.link
+{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 5px 30px;
+    border-radius: 50px;
+    background-image:red tomato;
+    font-weight: bold;
+    text-align: center;
+}
+.hi
+{
+    width:50%;
+    padding-left:5% ;
+}
+.hi img
+{
+    width: 70%;
+    padding-left: 5%;
+
+}
+.About-ME{
+    background-image: url(./inage/background1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+.itself
+{
+    text-align: center;
+}
+.box
+{
+    box-shadow: 10px 10px 40px black;
+    
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    border-left: 10px wheat;
+    border-right:wheat;
+    border-top: wheat;
+    border-bottom: wheat;
+
+
+}
+.box img
+{
+    border-radius: 20px;
+    width: 80%;
+    padding-top: 10%;
+    
+    
+
+}
+.id
+{
+    text-align: center;
+    display: flex;
+}
+.id1
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.background
+{
+    background-color: gray;
+    
+}
+
+.food
+{
+    color: red;
+
+}
+.Network
+{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
