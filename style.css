@@ -85,6 +85,8 @@ body{
 {
     text-align: center;
     display: flex;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
 }
 .id1
 {
@@ -96,6 +98,15 @@ body{
 {
     background-color: gray;
     
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 70px;
+
+    
 }
 
 .food
@@ -103,9 +114,10 @@ body{
     color: red;
 
 }
-.Network
-{
-    text-align: center;
-    margin-top: 10%;
-    margin-bottom: 10%;
+.bg{
+    background-color: hotpink !important;
+    display: flex;
+    margin-bottom: 150px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
